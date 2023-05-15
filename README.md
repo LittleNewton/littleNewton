@@ -16,7 +16,7 @@ My other main social accounts:
             <center><img src="https://github-readme-stats.vercel.app/api?username=LittleNewton&show_icons=true&hide_border=true&theme=chartreuse-light" ></center>
         </td>
         <td >
-            <center><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LittleNewton&theme=github_dark&show_icons=true" align="right" /></center>
+            <center><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LittleNewton&theme=github_light&show_icons=true" align="right" /></center>
         </td>
     </tr>
 </table>

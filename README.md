@@ -8,7 +8,7 @@ My other main social accounts:
 - [知乎/Zhihu](https://www.zhihu.com/people/littleNewton)
 
 # Visitor Count
-![Visitor Count](https://profile-counter.glitch.me/sqlsec/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/LittleNewton/count.svg)
 
 <table>
     <tr>

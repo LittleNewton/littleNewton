@@ -1,21 +1,36 @@
 # About me
 
-A PhD Student of University of Chinese Academy of Science (UCAS). Now I'm focusing on **IoT firmware dynamic analysis**.
+A PhD candidate of University of Chinese Academy of Science (UCAS). Now I'm focusing on **IoT firmware dynamic analysis**.
 
 My other main social accounts:
 
 - [哔哩哔哩/Bilibili](https://space.bilibili.com/45879248)
 - [知乎/Zhihu](https://www.zhihu.com/people/littleNewton)
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=LittleNewton&show_icons=true)
+# Visitor Count
+![Visitor Count](https://profile-counter.glitch.me/sqlsec/count.svg)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LittleNewton&hide=php&layout=compact)](https://github.com/dorapocket)
+<table>
+    <tr>
+        <td >
+            <center><img src="https://github-readme-stats.vercel.app/api?username=LittleNewton&show_icons=true&hide_border=true&theme=chartreuse-dark" ></center>
+        </td>
+        <td >
+            <center><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LittleNewton&theme=github_dark&show_icons=true" align="right" /></center>
+        </td>
+    </tr>
+</table>
 
-My tech-stack:
-
-- C/C++
-- C#/MS-Office Add-on
-- Python
-- JavaScript
-- PowerShell
-- etc.
+<table>
+    <tr>
+        <td >
+            <center><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LittleNewton&theme=vue" ></center>
+        </td>
+        <td >
+            <center><img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LittleNewton&theme=github&utcOffset=8" align="right" /></center>
+        </td>
+        <td >
+            <center><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LittleNewton&theme=vue" align="right" /></center>
+        </td>
+    </tr>
+</table>
